@@ -1,1 +1,1 @@
-Dans ce dossier, nous regrouperont tous les évenements
+Bienvenue dans le dossier du bot
